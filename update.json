@@ -1,5 +1,5 @@
-{  {"sync": 0}  
-,{
+{
+  "sync": 0,
   "version_1": "v8",
   "version_2": "v9",
   "app_name": "SawimMod",
@@ -9,5 +9,4 @@
   "feature_3": "3. Adding a built-in YouTube player",
   "button_text": "UPDATE NOW 😊",
   "update_url": "http://t.me/androidmod_x"
-}
 }
