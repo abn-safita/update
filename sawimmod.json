@@ -1,11 +1,14 @@
+    
+
+
 {
-  "version_1": "v8",
-  "version_2": "v9",
-  "app_name": "SawimMod",
-  "update_subtitle": "Latest: v8 - Update",
-  "feature_1": "1. Add a voice recording button",
-  "feature_2": "2. Supports the ability to send and receive images",
-  "feature_3": "3. Adding a built-in YouTube player",
-  "button_text": "UPDATE NOW 😊",
-  "update_url": "http://t.me/androidmod_x"
+  "enabled": false,
+  "title": "Update Available!",
+  "points": [
+    "Add a voice recording button",
+    "Adding a built-in YouTube player"
+  ],
+  "update_link": "YOUR_TELEGRAM_CHANNEL_LINK",
+  "cancel_text": "Not Now",
+  "update_text": "Update Now"
 }
