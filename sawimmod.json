@@ -1,8 +1,5 @@
-    
-
-
 {
-  "enabled": false,
+  "enabled": true,
   "title": "Update Available!",
   "points": [
     "Add a voice recording button",
